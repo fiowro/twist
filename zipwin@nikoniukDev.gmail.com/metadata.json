@@ -1,0 +1,19 @@
+{
+  "description": "Zip parts of the windows that doesn't fit the screen.", 
+  "name": "Zip Windows", 
+  "shell-version": [
+    "3.5.4", 
+    "3.6", 
+    "3.8",
+    "3.10"
+  ],
+  "gettext-domain": "gnome-shell-extensions", 
+  "original-authors": [
+    "nikoniukDev@gmail.com", 
+    "dmitriykostiuk@gmail.com"
+  ], 
+  "settings-schema": "org.gnome.shell.extensions.zipwin", 
+  "url": "http://git.gnome.org/gnome-shell-extensions", 
+  "uuid": "zipwin@nikoniukDev.gmail.com", 
+  "version": 1
+}

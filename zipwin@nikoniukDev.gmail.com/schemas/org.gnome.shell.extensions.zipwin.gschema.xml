@@ -1,0 +1,14 @@
+<schemalist gettext-domain="gnome-shell-extensions">
+  <enum id="org.gnome.shell.extensions.zipwin.Mode">
+    <value value="0" nick="one-window"/>
+    <value value="1" nick="all-windows"/>
+  </enum>
+  <schema id="org.gnome.shell.extensions.zipwin"
+          path="/org/gnome/shell/extensions/zipwin/">
+    <key name="settings-zip-mode"
+         enum="org.gnome.shell.extensions.zipwin.Mode">
+      <default>'one-window'</default>
+    </key>
+  </schema>
+</schemalist>
+
