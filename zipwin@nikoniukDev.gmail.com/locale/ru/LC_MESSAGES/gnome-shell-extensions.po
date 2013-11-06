@@ -1,0 +1,30 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Zip Windows Gnome Shell Extension\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-01 21:30+0100\n"
+"PO-Revision-Date: 2013-11-06 19:52+0300\n"
+"Last-Translator: Dmitriy Kostiuk <d.k@list.ru>\n"
+"Language-Team: RUSSIAN <d.k@list.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: ru\n"
+
+#: prefs.js:31
+msgid "Zip single window"
+msgstr "Сжимать только одно окно"
+
+#: prefs.js:32
+msgid "Zip multiple windows (experimental)"
+msgstr "Сжимать несколько окон (экспериментальный режим)"
+
+#: prefs.js:53
+msgid "Select windows zip mode"
+msgstr "Выберите режим сжатия окон:"
